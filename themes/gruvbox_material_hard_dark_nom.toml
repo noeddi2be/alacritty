@@ -3,7 +3,7 @@
 
 # Default colors
 [colors.primary]
-background = '#0A0B0C'
+background = '#172027'
 foreground = '#C7D0D8'
 
 # Colors the cursor will use if `custom_cursor_colors` is true
