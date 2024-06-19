@@ -7,7 +7,7 @@ Initial setup on MacOS. Use different package manager for Linux.
 brew install font-meslo-lg-nerd-font
 ```
 
-# Install PowerLevel10k and add to .zshrc
+### Install PowerLevel10k and add to .zshrc
 ```
 brew install powerlevel10k
 ```
