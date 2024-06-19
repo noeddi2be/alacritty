@@ -7,8 +7,12 @@ Initial setup on MacOS. Use different package manager for Linux.
 brew install font-meslo-lg-nerd-font
 ```
 
+# Install PowerLevel10k and add to .zshrc
 ```
 brew install powerlevel10k
+```
+```
+echo "source $(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme" >> ~/.zshrc
 ```
 
 ### Install zsh-autosuggestions and add to .zshrc
@@ -49,10 +53,3 @@ eval "$(zoxide init zsh)"
 
 alias cd="z"
 ```
-
-
-## PowerLevel10k Setup
-```
-nvim ~/.p10k.zsh
-```
-
